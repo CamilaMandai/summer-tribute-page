@@ -17,7 +17,7 @@
  `git commit -m 'iniciando o projeto'`
 
  6. Faça o push para enviar a sua branch para o github <br>
- `git push -u nome-sobrenome`
+ `git push -u origin nome-sobrenome`
 
  7. Abra uma PULL REQUEST - vulgo _PR_ 
  - No github vá até a página de Pull Request deste repositório [https://github.com/CamilaMandai/summer-tribute-page]
